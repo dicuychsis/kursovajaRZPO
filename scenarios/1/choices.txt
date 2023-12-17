@@ -1,0 +1,10 @@
+Текущая ветка : выбор : следующая ветка
+
+start:1:branch_1
+start:2:branch_2
+
+branch_1:1:branch_3
+branch_1:2:branch_4
+
+branch_2:1:branch_5
+branch_2:2:branch_6
